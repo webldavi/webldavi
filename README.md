@@ -1,6 +1,6 @@
 <h1 align="center">Oii! 👋</h1> 
 
-<h6 align="center"> Me chamo Luís Daví. Sou estudante da área de desenvolvimento web, atualemente estou fazendo um curso de Node.js, mas pretendo estudar cada vez mais para se tunar um desenvolvedor Full-Stack</h6>
+<h5 align="center"> Me chamo Luís Daví. Sou estudante da área de desenvolvimento web, atualemente estou fazendo um curso de Node.js, mas pretendo estudar cada vez mais para se tunar um desenvolvedor Full-Stack</h5>
 
 <p align="center">
   <img width=”200" height="200" src="https://user-images.githubusercontent.com/89264926/130262999-9f0b85cf-127c-4ea4-9701-0070f5820a2b.png" alt="my banner">
