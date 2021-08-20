@@ -16,8 +16,7 @@
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 </p>    
                                                                                                         
-<h3 align="center">:handshake: Connect with me:</h3
-     
+<h3 align="center">:handshake: Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/lu%C3%ADs-dav%C3%AD-rebou%C3%A7as-0778b421a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>     
   <a href="https://www.instagram.com/luis.davi2504/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>        
