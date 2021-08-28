@@ -2,8 +2,11 @@
 
 <h5 align="center"> My name is Luis Daví. I am a student in the field of web development, currently I am taking a course of Node.js, but I intend to study more and more to become a Full-Stack developer</h5>
 
+
+
+
 <p align="center">
-  <img width=”200" height="200" src="https://user-images.githubusercontent.com/89264926/130262999-9f0b85cf-127c-4ea4-9701-0070f5820a2b.png" alt="my banner">
+  <img width=”200" height="200" src="https://user-images.githubusercontent.com/89264926/131199947-e695a09b-7dbb-4487-a612-28f5c0e8d150.png" alt="my banner">
 </p>
 
 <h3 align="center">💼 Skills</h3>
