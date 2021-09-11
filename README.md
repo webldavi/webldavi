@@ -13,7 +13,7 @@
 const Luis_Davi = {
   genero: "Masculino",
   idade: 17,
-  tecnologias: [HTML, CSS, JAVASCRIPT, VUE.JS, BOOTSTRAP, GIT, GITHUB],
+  tecnologias: [HTML, CSS, JAVASCRIPT, VUE.JS,  GIT, GITHUB],
   email: "luisdavi.moz@outlook.com",
   SO: "Linux" || "Windows",
   IDE: "Visual Studio Code",
