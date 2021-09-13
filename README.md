@@ -17,7 +17,7 @@ const Luis_Davi = {
   email: "luisdavi.moz@outlook.com",
   SO: "Linux" || "Windows",
   IDE: "Visual Studio Code",
-  Inspiração: "às vezes são as pessoas que ninguém espera nada que fazem as coisas mais incríveis"
+  Inspiração: "the sky is the limit"
 }
 
 ```
