@@ -25,9 +25,9 @@ const Luis_Davi = {
 
 ---
 
-HTML | CSS | Javascript | Vue.js | Vuex | TawilwindCSS
------|-----|------------|--------|------|-------------|
-<img align="center" alt="Luis" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img align="center" alt="Luis" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | <img align="center" alt="Luis" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="Luis" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> |<img align="center" alt="Luis" height="50" width="60" src="https://i.imgur.com/Xh2moMC.png"> | <img align="center" alt="Luis" height="50" width="60" src="https://raw.githubusercontent.com/Luis-Davi2504/clone-clubhouse/main/src/assets/tailwindcss.png">
+HTML | CSS | Javascript | Vue.js | Vuex | Nuxt.js | TawilwindCSS| 
+-----|-----|------------|--------|------|---------|-------------|
+<img align="center" alt="Luis" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img align="center" alt="Luis" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | <img align="center" alt="Luis" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="Luis" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> |<img align="center" alt="Luis" height="50" width="60" src="https://i.imgur.com/Xh2moMC.png"> | <img align="center" alt="Luis" height="50" width="60" src="./nuxt.png"> | <img align="center" alt="Luis" height="50" width="60" src="https://raw.githubusercontent.com/Luis-Davi2504/clone-clubhouse/main/src/assets/tailwindcss.png"> 
 
 ---
                                                                                                    
