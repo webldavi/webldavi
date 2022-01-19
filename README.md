@@ -2,7 +2,7 @@
 
 ###  🌎 "Never stop Learning"
 
-- 🔭 Atualmente estou trabalhando em <strong>Projetos Fictícios para meu peortifólio</strong>
+- 🔭 Atualmente estou trabalhando em <strong>Projetos fictícios para meu portifólio</strong>
 - 🌱 Atualmente estou aprendendo <strong>Nuxt.js | SEO | Back-end</strong>
 - 👯 Estou procurando colaborar em <strong>Vue.js Project | Dev Community</strong>
 
