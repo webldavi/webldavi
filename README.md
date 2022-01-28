@@ -3,7 +3,7 @@
 ###  🌎 "Never stop Learning"
 
 - 🔭 Atualmente estou trabalhando em <strong>Projetos para meu portifólio</strong>
-- 🌱 Atualmente estou aprendendo <strong>Nuxt.js | SEO | Back-end</strong>
+- 🌱 Atualmente estou aprendendo <strong>Next.js | SEO </strong>
 - 👯 Estou procurando colaborar em <strong>Vue.js Project | Dev Community</strong>
 
 
