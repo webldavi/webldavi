@@ -3,8 +3,8 @@
 ###  🌎 "Never stop Learning"
 
 - 🔭 Atualmente estou trabalhando em <strong>Projetos para meu portifólio</strong>
-- 🌱 Atualmente estou aprendendo <strong>Next.js | SEO </strong>
-- 👯 Estou procurando colaborar em <strong>Vue.js Project | Dev Community</strong>
+- 🌱 Atualmente estou aprendendo <strong>React.js e Typescript</strong>
+- 👯 Estou procurando colaborar na <strong>Comunidade de desenvolvedores</strong>
 
 
 ## 🚀 My skills and technologies that I am studying
@@ -31,3 +31,10 @@
   <a href="https://www.instagram.com/vuedavi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>        
   <a href="mailto:luisdavi.moz@outlook.com"><img src="https://img.shields.io/badge/_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
 </p>  
+
+
+<div align="start">
+  <a href="https://github.com/webldavi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webldavi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webldavi&layout=compact&langs_count=4&theme=dracula"/>
+</div>
