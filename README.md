@@ -31,3 +31,9 @@
   <a href="https://www.instagram.com/vuedavi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>        
   <a href="mailto:luisdavi.moz@outlook.com"><img src="https://img.shields.io/badge/_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
 </p>  
+
+<div align="start">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vuedavi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuedavi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
