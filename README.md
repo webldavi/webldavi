@@ -26,7 +26,6 @@
 <!-- <code><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="32" alt="Vuetify"/></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" height="32" alt="Pug"/></code> -->
         
-/p>  
 
 
 <div align="start">
