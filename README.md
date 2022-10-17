@@ -26,13 +26,7 @@
 <!-- <code><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="32" alt="Vuetify"/></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" height="32" alt="Pug"/></code> -->
         
-<p >
-<!--   <a href="https://www.linkedin.com/in/lu%C3%ADs-dav%C3%AD-rebou%C3%A7as-0778b421a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>      -->
-  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  <a href="" img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  <a href="https://www.instagram.com/_eudaviii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>        
-  <a href="mailto:luisdavi.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-</p>  
+/p>  
 
 
 <div align="start">
