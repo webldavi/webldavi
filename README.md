@@ -35,4 +35,3 @@
 </div>
           
          
- ![Snake animation](https://github.com/webldavi/webldavi/blob/output/github-contribution-grid-snake.svg)
