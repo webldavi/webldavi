@@ -2,8 +2,8 @@
 
 ###  🌎 "Never stop Learning"
 
-- 🔭 Atualmente estou trabalhando em <strong>Projetos para meu portifólio</strong>
-- 🌱 Atualmente estou aprendendo <strong>React.js e Typescript</strong>
+- 🔭 Atualmente estou trabalhando em <strong>Nexus-ui</strong>
+- 🌱 Atualmente estou aprendendo <strong>PHP e Laravel</strong>
 - 👯 Estou procurando colaborar na <strong>Comunidade de desenvolvedores</strong>
 
 
