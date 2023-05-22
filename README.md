@@ -2,7 +2,7 @@
 
 ###  🌎 "Never stop Learning"
 
-- 🔭 Atualmente estou trabalhando em <strong>Turing Community</strong>
+- 🔭 Atualmente estou trabalhando em <strong>Projetos Pessoais</strong>
 - 🌱 Atualmente estou aprendendo <strong>Node.js e typscript</strong>
 - 👯 Estou procurando colaborar na <strong>Comunidade de desenvolvedores</strong>
 
