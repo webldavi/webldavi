@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador Luís Daví">
 
-## 💙 Olá, meu nome é <strong>Luís Daví!</strong>
+<h4> 💙 Olá, meu nome é <strong>Luís Daví!</strong></h4>
 
-###  🌎 "Nunca pare de estudar!"
+<h4>  🌎 "Nunca pare de estudar!"</h4>
 
 > - 🔭 Atualmente estou trabalhando em <strong>Projetos Pessoais</strong>
 > - 🌱 Atualmente estou aprendendo <strong>Node.js e typscript</strong>
 > - 👯 Estou procurando colaborar na <strong>Comunidade de desenvolvedores</strong>
 
 
-## 🚀 Minhas Habilidades:
+<h4> 🚀 Minhas Habilidades:</h4>
 
 
         
