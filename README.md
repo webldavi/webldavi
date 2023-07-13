@@ -9,7 +9,7 @@
 <h4>  🌎 "Nunca pare de estudar!"</h4>
 
 > - 🔭 Atualmente estou trabalhando em <strong>Projetos Pessoais</strong>
-> - 🌱 Atualmente estou aprendendo <strong>Node.js e typscript</strong>
+> - 🌱 Atualmente estou aprendendo <strong>Node.js e typescript</strong>
 > - 👯 Estou procurando colaborar na <strong>Comunidade de desenvolvedores</strong>
 
 
