@@ -1,15 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador Luís Daví">
 
-<h4> 💙 Olá, meu nome é <strong>Luís Daví!</strong></h4>
-
-> - 💻 Desenvolvedor Front-end
-> - 🛡 Moderador na [dev.to](https://dev.to)
-> - 📝 Escritor na [DEV Community](https://dev.to/webdavi)
-
-<h4>  🌎 "Nunca pare de estudar!"</h4>
-
-> - 🔭 Atualmente estou trabalhando em <strong>Projetos Pessoais</strong>
-> - 🌱 Atualmente estou aprendendo <strong>Node.js e typescript</strong>
+> - 🔭 Atualmente estou trabalhando em <strong>Projetos Pessoais e Freelancers</strong>
+> - 🌱 Atualmente estou aprendendo <strong>PHP e Laravel</strong>
 > - 👯 Estou procurando colaborar na <strong>Comunidade de desenvolvedores</strong>
 
 
