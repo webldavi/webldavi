@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador Luís Daví">
 
-> - 🔭 Atualmente estou trabalhando em <strong>Projetos Pessoais e Freelancers</strong>
-> - 🌱 Atualmente estou aprendendo <strong>PHP e Laravel</strong>
+<h4>👋🏻 Olá pessoal! me chamo Luís Daví</h4>
+
+> - 🔭 Estou atualmente trabalhando em <strong>Projetos Pessoais e Freelancers</strong>
+> - 🌱 Atualmente aprendendo <strong>PHP e Laravel</strong>
 > - 👯 Estou procurando colaborar na <strong>Comunidade de desenvolvedores</strong>
 
 
@@ -13,4 +15,4 @@
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/webdavi) 
 
 
-         
+
